@@ -27,6 +27,6 @@ Datasheet of TC358748XBG is included in the project, which requires external LIC
 
 ### Pinout
 
-generated using pinoutleaf at [https://splitbrain.github.io/pinoutleaf](https://splitbrain.github.io/pinoutleaf)
+<image src="https://github.com/AnterCreeper/csicam/blob/main/pinout.svg?raw=true" alt="Pinout" width="512">
 
-![Pinout](https://github.com/AnterCreeper/csicam/blob/main/pinout.svg?raw=true)
+generated using pinoutleaf at [https://splitbrain.github.io/pinoutleaf](https://splitbrain.github.io/pinoutleaf)
