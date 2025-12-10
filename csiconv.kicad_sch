@@ -779,7 +779,7 @@
 			)
 		)
 		(instances
-			(project "csicam"
+			(project "csiconv"
 				(path "/8da7a9a2-1f9b-4337-9ece-bda830a0d81e"
 					(page "4")
 				)
@@ -821,7 +821,7 @@
 			)
 		)
 		(instances
-			(project "csicam"
+			(project "csiconv"
 				(path "/8da7a9a2-1f9b-4337-9ece-bda830a0d81e"
 					(page "2")
 				)
@@ -863,7 +863,7 @@
 			)
 		)
 		(instances
-			(project "csicam"
+			(project "csiconv"
 				(path "/8da7a9a2-1f9b-4337-9ece-bda830a0d81e"
 					(page "3")
 				)
